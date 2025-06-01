@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📌MULTI_PROJECT 
 
  This project is a continuation of a previous analysis using the same job market database. While the initial project focused on analyzing Data Analyst roles associated skills, highest salary and optimal skills, this second phase dives deeper into SQL-Based Insights on Job Opportunities & Hiring Trends. The analysis pinpoints high-value skills, top remote-friendly employers, and patterns in job offerings that go beyond basic listings — valuable for both tech professionals and workforce analysts.
@@ -320,3 +321,6 @@ In addition, this analysis lays a strong foundation for future work — such as 
 
 
 
+=======
+update it later
+>>>>>>> 6b36b1f83bdbe85691a85840b8abb1b6f3c613ba
