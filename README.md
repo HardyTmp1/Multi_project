@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📌MULTI_PROJECT 
 
  This project is a continuation of a previous analysis using the same job market database. While the initial project focused on analyzing Data Analyst roles associated skills, highest salary and optimal skills, this second phase dives deeper into SQL-Based Insights on Job Opportunities & Hiring Trends. The analysis pinpoints high-value skills, top remote-friendly employers, and patterns in job offerings that go beyond basic listings — valuable for both tech professionals and workforce analysts.
@@ -304,23 +304,3 @@ Note: All visualizations in this project were created using Microsoft Excel for 
 This project provided key insights into the tech job market by analyzing job roles, required skills, and salary trends using SQL. By focusing on data-related positions, remote opportunities, and skill-based salary comparisons, it highlighted the most valuable technologies and roles in demand. The findings not only guide career decisions but also emphasize the importance of targeted upskilling for better opportunities in a competitive job landscape.
 
 In addition, this analysis lays a strong foundation for future work — such as integrating time-based trends, automating job tracking pipelines, or applying machine learning to predict high-paying skills — to further deepen market understanding and enhance career planning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-update it later
->>>>>>> 6b36b1f83bdbe85691a85840b8abb1b6f3c613ba
